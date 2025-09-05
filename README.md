@@ -1,16 +1,22 @@
-## Hi there 👋
-
-<!--
-**Djoncour29/Djoncour29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <title>Woolie</title>
+  <style>
+    body {
+      margin: 0;
+      padding: 0;
+      text-align: center; /* Centre horizontalement le contenu */
+    }
+    img {
+      display: block;
+      margin: 20px auto 0 auto; /* Espace en haut + centré */
+    }
+  </style>
+</head>
+<body>
+  <h1>Site en construction</h1>
+  <img src="images/woolie.png" alt="Mon image" width="400">
+</body>
+</html>
