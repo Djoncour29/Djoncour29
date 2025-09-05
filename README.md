@@ -2,18 +2,7 @@
 <html lang="fr">
 <head>
   <meta charset="UTF-8">
-  <title>Woolie</title>
-  <style>
-    body {
-      margin: 0;
-      padding: 0;
-      text-align: center; /* Centre horizontalement le contenu */
-    }
-    img {
-      display: block;
-      margin: 20px auto 0 auto; /* Espace en haut + centré */
-    }
-  </style>
+
 </head>
 <body>
   <h1>Site en construction</h1>
